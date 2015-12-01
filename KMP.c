@@ -19,7 +19,7 @@ note			:		N/A
 *Output			:	N/A
 *Return			:	void
 *Other			:	N/A
-*Description	:	N/A
+*Description		:	N/A
 ***************************************/
 static void KMP(char *pattern, int len, int *arr)
 {
@@ -55,7 +55,7 @@ static void KMP(char *pattern, int len, int *arr)
 *Output			:	N/A
 *Return			:	char *
 *Other			:	N/A
-*Description	:	N/A
+*Description		:	N/A
 ***************************************/
 char *mate(char *str, int str_len, char *pattern, int len)
 {
@@ -117,6 +117,6 @@ int main(void)
 ---------------------------------------------------------------------
 yyyy-mm-dd			author			description
 ---------------------------------------------------------------------
-2015-11-19			bulldozer.ma	practice
+2015-11-19			bulldozer.ma		practice
 ---------------------------------------------------------------------
 */
