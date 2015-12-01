@@ -34,7 +34,7 @@ static void freeArr(int **p)
 *Output			:	N/A
 *Return			:	int *
 *Other			:	N/A
-*Description	:	N/A
+*Description		:	N/A
 ***************************************/
 int *badCharacter(char *pattern, int len)
 {
@@ -66,7 +66,7 @@ int *badCharacter(char *pattern, int len)
 *Output			:	N/A
 *Return			:	int *
 *Other			:	N/A
-*Description	:	N/A
+*Description		:	N/A
 ***************************************/
 int *upfrontGoodSuffix(char *pattern, int len)
 {
@@ -99,7 +99,7 @@ int *upfrontGoodSuffix(char *pattern, int len)
 *Output			:	N/A
 *Return			:	int *
 *Other			:	N/A
-*Description	:	N/A
+*Description		:	N/A
 ***************************************/
 int *goodSuffix(char *pattern, int len)
 {
@@ -160,7 +160,7 @@ int *goodSuffix(char *pattern, int len)
 *Output			:	N/A
 *Return			:	char *
 *Other			:	N/A
-*Description	:	N/A
+*Description		:	N/A
 ***************************************/
 char *mate(char *str, int str_len,char *pattern, int len)
 {
@@ -229,6 +229,6 @@ int main(void)
 ---------------------------------------------------------------------
 yyyy-mm-dd			author			description
 ---------------------------------------------------------------------
-2015-11-19			bulldozer.ma	practice
+2015-11-19			bulldozer.ma		practice
 ---------------------------------------------------------------------
 */
